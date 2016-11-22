@@ -81,9 +81,9 @@ Scroll to the end of your profile and find a line starting with "main_hand=", co
 Add couple of lines at the end of your profile
 
 
-`copy="me with a new relic"
+`copy="me with a new relic"`
 
-_paste a main hand line here_`
+`paste a main hand line here`
 
 this will look like this
 
