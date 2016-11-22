@@ -6,12 +6,19 @@ Except for this one though, because the answer is always "sim it yourself".
 # Step 1. Get SimCraft
 
 Latest stable version is here. You can be sure it works fine
+
 http://simulationcraft.org/download.html
+
 if there were some hotfixes on live WoW, or new patch you may need to use latest build from here
+
 http://downloads.simulationcraft.org/
+
 you go to the end of the list
+
 ![](http://i.imgur.com/i795Hys.png)
+
 and pick the one with the latest date. Download, unzip.
+
 
 # Step 2. Launch SimCraft
 
