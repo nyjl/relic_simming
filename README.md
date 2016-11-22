@@ -10,15 +10,15 @@ http://simulationcraft.org/download.html
 if there were some hotfixes on live WoW, or new patch you may need to use latest build from here
 http://downloads.simulationcraft.org/
 you go to the end of the list
-http://i.imgur.com/i795Hys.png
+!(http://i.imgur.com/i795Hys.png)
 and pick the one with the latest date. Download, unzip.
 
 # Step 2. Launch SimCraft
 
 Go to unzipped folder, launch SimulationCraft64.exe (or 32 if you are using 32bit version)
-http://i.imgur.com/nGq8XnN.png
+!(http://i.imgur.com/nGq8XnN.png)
 you'll end up here
-http://i.imgur.com/undefined.jpg
+!(http://i.imgur.com/undefined.jpg)
 
 # Step 3. Import your character
 
