@@ -3,24 +3,17 @@
 Remember, there are no stupid questions!
 Except for this one though, because the answer is always "sim it yourself".
 
-# Step 1. Get SimCraft
+# Step 1. Get SimulationCraft
 
-Latest stable version is here. You can be sure it works fine
+Using the latest nightly build is recommended as it includes the latest hotfixes/changes.
 
-http://simulationcraft.org/download.html
+http://downloads.simulationcraft.org/?C=M;O=D
 
-if there were some hotfixes to live WoW, or new patch was applied you may need to use latest build from here
+![](http://i.imgur.com/6ZojHKe.png)
 
-http://downloads.simulationcraft.org/
+Pick the one with the most recent date (should be at the top) that ends in .7z. Download, unzip.
 
-you go to the end of the list
-
-![](http://i.imgur.com/i795Hys.png)
-
-and pick the one with the latest date. Download, unzip.
-
-
-# Step 2. Launch SimCraft
+# Step 2. Launch SimulationCraft
 
 Go to unzipped folder, launch SimulationCraft64.exe (or 32 if you are using 32bit version)
 
