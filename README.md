@@ -54,7 +54,7 @@ http://wowhead.com
 
 find you relic through search
 
-![](http://i.imgur.com/undefined.jpg)
+![](http://i.imgur.com/rUg2s5q.png)
 
 choose the correct ilvl version of you relic
 
