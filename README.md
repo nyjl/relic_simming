@@ -21,7 +21,7 @@ Go to unzipped folder, launch SimulationCraft64.exe (or 32 if you are using 32bi
 
 you'll end up here
 
-![](http://i.imgur.com/undefined.jpg)
+![](http://i.imgur.com/yrSwbzy.png)
 
 # Step 3. Import your character
 
